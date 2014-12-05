@@ -1,0 +1,4 @@
+[
+    { "keys": ["super+k", "super+b"], "command": "toggle_side_bar" },
+    { "keys": ["super+shift+r"], "command": "reindent" , "args": { "single_line": false } }
+]

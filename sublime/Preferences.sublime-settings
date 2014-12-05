@@ -1,0 +1,18 @@
+{
+	"color_scheme": "Packages/User/Solarized (Dark) (SL).tmTheme",
+	"draw_white_space": "selection",
+	"ensure_newline_at_eof_on_save": true,
+	"font_size": 12,
+	"ignored_packages":
+	[
+		"phpfmt",
+		"Vintage"
+	],
+	"open_files_in_new_window": false,
+	"rulers": 120,
+	"show_encoding": true,
+	"soda_classic_tabs": true,
+	"theme": "Sodarized Dark.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true
+}
