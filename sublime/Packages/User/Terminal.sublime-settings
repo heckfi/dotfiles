@@ -1,7 +1,0 @@
-{
-	"keys": ["ctrl+alt+t"],
-	"command": "iTerm.sh",
-	"args": {
-		"parameters": ["-T", "Custom Window Title"]
-	}
-}
